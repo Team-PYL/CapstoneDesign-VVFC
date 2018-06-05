@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidOS2</string>
+
+    <string name="edgex_coredata_rest">http://192.168.0.106:48081/</string>
+    <string name="edgex_event_rest">http://192.168.0.106:48080/</string>
+    <string name="api_v1">api/v1/</string>
+
+    <string name="dashboard_addressable_ip">127.0.0.1</string>
+    <string name="dashboard_addressable_port">49090</string>
+    <string name="dashboard_addressable_protocol">HTTP</string>
+
+</resources>
